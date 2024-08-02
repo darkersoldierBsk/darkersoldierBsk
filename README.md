@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @darkersoldierBsk
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning developing Kotlin Projects in Android Studio
+- 💞️ I’m looking to collaborate on Android app projects
+- 📫 How to reach me on linkedin : www.linkedin.com/in/başak-sakallı-2b2b63252
+- 😄 Pronouns: she/her
